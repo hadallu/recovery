@@ -29,7 +29,7 @@
 
 <br/>
 
-![역할분담](https://github.com/subeen0210/master-japanese/assets/82039003/3da9c2b0-d790-4188-a5b8-66652eefcf59)
+![역할분담](https://github.com/hadallu/recovery/assets/82039003/b2e7ecf9-efbf-4e1d-921d-f536ab71bfdd)
 
 <br/>
 
@@ -38,7 +38,7 @@
 
 <br/>
 
-![사용프로그램](https://github.com/subeen0210/master-japanese/assets/82039003/50c48482-3a7b-490a-93d9-c7a587d85c85)
+![사용프로그램](https://github.com/hadallu/recovery/assets/82039003/2f674778-38dc-4a43-8d7b-ae408618c7de)
 
 <br/>
 
