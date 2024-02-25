@@ -51,7 +51,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/subeen0210/master-japanese/assets/82039003/92050501-37c1-46cf-9581-98d8c640a0c4">
+  <img src="https://github.com/hadallu/recovery/assets/82039003/4f0cc7bc-cd0e-4f21-89db-6ca13e97eae9">
 </p>
 
 - [x] 메뉴 hover 효과 <br/>
@@ -65,7 +65,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/subeen0210/master-japanese/assets/82039003/b970adde-a4f2-4f24-9452-a7ee51ee621e" width:500px height: 500px>
+  <img src="https://github.com/hadallu/recovery/assets/82039003/00c2dad2-b31e-4268-bbbe-3239e1493afa" width:500px height: 500px>
 </p>
 
 - [x] 일본 우편번호 API를 활용한 회원가입 시 우편번호 기입 가능
@@ -76,7 +76,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/subeen0210/master-japanese/assets/82039003/54af5efb-d13d-4760-8ac2-91c41b68030a">
+  <img src="https://github.com/hadallu/recovery/assets/82039003/e4e2c31e-332f-4af3-8495-4624b13ebb0d">
 </p>
 
 - [x] '전체', '못난이', '일반'으로 구분해 상품 확인
@@ -87,7 +87,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github.com/subeen0210/master-japanese/assets/82039003/f2f21bfa-5ddb-44bd-b0d7-d4709c955957">
+  <img src="https://github.com/hadallu/recovery/assets/82039003/6242be13-6801-45b2-951e-d82d86c9914f">
 </p>
 
 - [x] 검색어에 해당하는 상품 목록만 확인 가능
